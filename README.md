@@ -1,7 +1,6 @@
 # Tree Detection in Drone Footage Using YOLOv11 Instance Segmentation
 
 ![Project Demo](output.gif)  
-*Replace the above with a screenshot or demo gif of your detection results.*
 
 ---
 
